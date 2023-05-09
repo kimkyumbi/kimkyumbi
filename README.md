@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**kimkyumbi/kimkyumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ... 광주소프트웨어마이스터고등학교
 - 🌱 I’m currently learning ... Back-End
 - 👯 I’m looking to collaborate on ... 
