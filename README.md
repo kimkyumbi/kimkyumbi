@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... 광주소프트웨어마이스터고등학교
-- 🌱 I’m currently learning ... Back-End
+- 🔭 제가 다니는 학교는 ... 광주소프트웨어마이스터고등학교!
+- 🌱 제가 지금 배우고 있는 것은 ... Back-End 에요!
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
