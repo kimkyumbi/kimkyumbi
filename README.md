@@ -1,5 +1,5 @@
 ### Hi there 🥹
 
-i study iOS
+I'm studying about iOS develop
 
 
